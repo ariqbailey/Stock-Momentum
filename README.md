@@ -21,4 +21,4 @@ I went into this project knowing that the odds of finding any useful results fro
 
 However, if I was to go back with my current hindsight and take another attempt at my project, I would do some things differently. To list a few: First, I would skip trying to get free data from API&#39;s entirely and go straight to the Bloomberg with the excel plugin (which is a wealth of any financial data you could ever want). Second, I would be a lot more purposeful when picking independent variables for my regressions. I would try to figure out, by running some test regressions (like this one), or by doing some research, which variables would be most likely to yield a useful or novel correlation, and I would use those. Third, I would try to get a better understanding of what momentum is, by trying to find a better measure of momentum than rate of return, which may have led to better regression results or decisions on input data.
 
-# Please read the word Momentum Regression Analysis word file for more information and images.
+# Please read the Momentum Regression Analysis word file for more information and images.
